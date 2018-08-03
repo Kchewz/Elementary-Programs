@@ -2,7 +2,7 @@
  * Program: AreaCalc.java
  * Author: Kenny Chyzewski
  * Language: Java
- * Description: A calculator to solve the area of a rectangle/square.
+ * Description: A calculator to solve the area of a rectangle/square. lol
  */
 import java.io.*; //Required for command line input
 public class AreaCalc
