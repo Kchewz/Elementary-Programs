@@ -1,7 +1,7 @@
 /*
  * Program: CircCalc.java
  * Author: Kenny Chyzewski
- * Description: A calculator to solve the area of a circle
+ * Description: A calculator to solve the area of a circle.
  */
 import java.io.*; //Required for command line input
 public class CircCalc
