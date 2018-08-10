@@ -1,7 +1,6 @@
 /*
  * Program: FtoC.java
  * Author: Kenny Chyzewski
- * Date: 9/17/2014
  * Description: A calculator to convert Fahrenheit into Celsius.
  */
 import java.io.*; //Required for command line input.
