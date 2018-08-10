@@ -1,7 +1,6 @@
 /*
  * Program: SimpleMyTime.java
  * Author: Kenny Chyzewski
- * Date: 9/18/2014
  * Description: A program that simplifies, an average of how many hours you've slept for.
  */
 import java.io.*; //Required for command line input
