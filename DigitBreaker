@@ -1,7 +1,6 @@
 /*
  * Program: DigitBreaker.java
  * Author: Kenny Chyzewski
- * Date: 9/18/2014
  * Description: A program that splits three digit numbers into 3 single digit numbers.
  */
 import java.io.*; //Required for command line input
