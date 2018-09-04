@@ -1,5 +1,5 @@
 /*
- * Program: ClassAvgCalculator
+ * Program: ClassAvgCalculator.java
  * Author: Kenny Chyzewski
  * Description: This program calculates the classes average.
  */
