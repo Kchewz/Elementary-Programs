@@ -1,5 +1,5 @@
 /*
- * Program: AreaCalc.java
+ * Program: AreaCalculator.java
  * Author: Kenny Chyzewski
  * Description: A calculator to solve the area of a rectangle/square
  */
