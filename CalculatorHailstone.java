@@ -1,5 +1,5 @@
 /*
- * Program: CalculatorHailstone
+ * Program: CalculatorHailstone.java
  * Author: Kenny Chyzewski
  * Description: This program breaks down a number into its hailstone.
  */
