@@ -1,5 +1,5 @@
 /*
- * Program: PerimeterCalc.java
+ * Program: PerimeterCalculator.java
  * Author: Kenny Chyzewski
  * Description: A calculator to solve the perimeter of a rectangle/square.
  */
