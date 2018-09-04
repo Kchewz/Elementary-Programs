@@ -1,5 +1,5 @@
 /*
- * Program: Calc1.java
+ * Program: Calculator.java
  * Author: Kenny Chyzewski
  * Description: This program is a normal calculator.
  */
