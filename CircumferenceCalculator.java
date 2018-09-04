@@ -1,5 +1,5 @@
 /*
- * Program: CircCircum.java
+ * Program: CircumferenceCalculator.java
  * Author: Kenny Chyzewski
  * Description: A calculator to solve the circumference of a circle.
  */
