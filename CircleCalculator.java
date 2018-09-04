@@ -1,5 +1,5 @@
 /*
- * Program: CircCalc.java
+ * Program: CircleCalculator.java
  * Author: Kenny Chyzewski
  * Description: A calculator to solve the area of a circle.
  */
