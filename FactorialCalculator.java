@@ -1,5 +1,5 @@
 /*
- * Program: FactorialCalculator
+ * Program: FactorialCalculator.java
  * Author: Kenny Chyzewski
  * Description: This program breaks a whole number into its factorial.
  */
