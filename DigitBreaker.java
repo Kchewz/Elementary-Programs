@@ -1,5 +1,5 @@
 /*
- * Program: DigitBreaker.java
+ * Program: DigitBreaker.java 
  * Author: Kenny Chyzewski
  * Description: A program that splits three digit numbers into 3 single digit numbers.
  */
