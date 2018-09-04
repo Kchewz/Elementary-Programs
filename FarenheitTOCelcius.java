@@ -1,5 +1,5 @@
 /*
- * Program: FtoC.java
+ * Program: FarenheitTOCelcius.java
  * Author: Kenny Chyzewski
  * Description: A calculator to convert Fahrenheit into Celsius.
  */
