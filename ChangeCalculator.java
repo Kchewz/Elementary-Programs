@@ -1,5 +1,5 @@
 /*
- * Program: ChangeChange.java
+ * Program: ChangeCalculator.java
  * Author: Kenny Chyzewski
  * Language: Java
  * Description: A calculator the quantity of coins required to make change.
