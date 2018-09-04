@@ -1,5 +1,5 @@
 /*
- * Program: TriArea.java
+ * Program: TriangularAreaCalculator.java
  * Author: Kenny Chyzewski
  * Description: A calculator to solve the area of a triangle.
  */
