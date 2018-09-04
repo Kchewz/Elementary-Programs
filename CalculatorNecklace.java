@@ -1,5 +1,5 @@
 /*
- * Program: Calc2.java
+ * Program: CalculatorNecklace.java
  * Author: Kenny Chyzewski
  * Description: This program is calculates a problem with the necklace method.
  */
