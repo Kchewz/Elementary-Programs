@@ -1,5 +1,5 @@
 /*
- * Program: SimpleMyTime.java
+ * Program: AverageSleepCalculator.java
  * Author: Kenny Chyzewski
  * Description: A program that simplifies, an average of how many hours you've slept for.
  */
